@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment No.1</title>
+</head>
+<body>
+    <p align="center">
+        <img src="./images/umar.jpeg" alt="">
+    </p>
+    <hr>
+    <p align="center">
+        <a href="">Home</a>
+        <a href="">Menu</a>
+        <a href="">About Us</a>
+        <a href="">Timings</a>
+        <a href="">Contact</a>
+    </p>
+    <hr>
+    <h2 align="center">Contact Us</h2>
+    <div align="center">
+        Name: <Input type="text"></Input>
+    </div>
+    <br>
+    <div align="center">
+        Email: <Input type="text"></Input>
+    </div>
+    <br>
+    <div align="center">
+        <textarea name="mytext" id="" cols="30" rows="10"></textarea>
+    </div>
+    <p align="center"><button>Send Massage</button></p>
+    <hr>
+    <footer align="center">Copyright&copy Umar's Cuisine</footer>
+</body>
+</html>
