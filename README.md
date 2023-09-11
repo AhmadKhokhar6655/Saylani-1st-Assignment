@@ -1,3 +1,3 @@
 # Saylani-1st-Assignment
  
-My first project at Saylani SMIT program.
+My first project was at the Saylani SMIT program.
