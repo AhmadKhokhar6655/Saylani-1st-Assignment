@@ -26,7 +26,9 @@
         <img src="./images/4.jpeg" alt="">
         <img src="./images/3.jpeg" alt="">
     </p>
-    <p align="center"><button><a href="">Lets see our menu</a></button></p>
+    <p align="center">
+        <button><a href="">Lets see our menu</a></button>
+    </p>
     <hr>
     <footer align="center">Copyright&copy Umar's Cuisine</footer>
 </body>
